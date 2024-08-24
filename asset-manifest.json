@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jeongjaemin7696_study/static/css/main.08031a86.css",
+    "main.js": "/jeongjaemin7696_study/static/js/main.374cfe97.js",
+    "static/js/453.ea09c8ba.chunk.js": "/jeongjaemin7696_study/static/js/453.ea09c8ba.chunk.js",
+    "index.html": "/jeongjaemin7696_study/index.html",
+    "main.08031a86.css.map": "/jeongjaemin7696_study/static/css/main.08031a86.css.map",
+    "main.374cfe97.js.map": "/jeongjaemin7696_study/static/js/main.374cfe97.js.map",
+    "453.ea09c8ba.chunk.js.map": "/jeongjaemin7696_study/static/js/453.ea09c8ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08031a86.css",
+    "static/js/main.374cfe97.js"
+  ]
+}
